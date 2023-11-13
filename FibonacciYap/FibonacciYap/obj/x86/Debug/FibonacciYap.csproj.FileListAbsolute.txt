@@ -1,0 +1,11 @@
+C:\Users\MO-04\Desktop\FibonacciYap\FibonacciYap\bin\Debug\FibonacciYap.exe
+C:\Users\MO-04\Desktop\FibonacciYap\FibonacciYap\bin\Debug\FibonacciYap.pdb
+C:\Users\MO-04\Desktop\FibonacciYap\FibonacciYap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\FibonacciYap\FibonacciYap\obj\x86\Debug\FibonacciYap.Form1.resources
+C:\Users\MO-04\Desktop\FibonacciYap\FibonacciYap\obj\x86\Debug\FibonacciYap.Properties.Resources.resources
+C:\Users\MO-04\Desktop\FibonacciYap\FibonacciYap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\FibonacciYap\FibonacciYap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\FibonacciYap\FibonacciYap\obj\x86\Debug\FibonacciYap.exe
+C:\Users\MO-04\Desktop\FibonacciYap\FibonacciYap\obj\x86\Debug\FibonacciYap.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\15.GÜN\FibonacciYap\FibonacciYap\obj\x86\Debug\FibonacciYap.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\15.GÜN\FibonacciYap\FibonacciYap\obj\x86\Debug\FibonacciYap.pdb
